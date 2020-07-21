@@ -1,9 +1,9 @@
-title: blog.chyidl.com
+title: chyidl.com
 description: "record life and share knowledge"
 author:
   name: "chyi"
   email: "chyiyaqing@gmail.com"
-  url: "https://blog.chyidl.com/"
+  url: "https://chyidl.com/"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "ChyiYaqing"
+owner : "Stay-Hungry,Stay-Foolish"
 year : "2020"
