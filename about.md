@@ -5,7 +5,7 @@ title: About
 
 **ChyiYaqing**, Shanghai, `Software engineer`.
 
-> 2020- Now  · Shanghai · **YoGo Robot** (`Python`,`Go`)
+> 2020- Now  · Shanghai · **YoGo Robot** (`Python`,`Go`,`Rust`)
 
 > 2017-2019 · Shanghai · Software Engineer (`Python`)
 

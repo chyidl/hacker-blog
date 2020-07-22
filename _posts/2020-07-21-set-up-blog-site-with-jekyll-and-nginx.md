@@ -1,9 +1,18 @@
 ---
-title: jekyllrb
+title: Set up blog site with Jekyll and Nginx
 published: true
 ---
 
-**JekyII** is a simple static site generator. It takes pages input in Markdown, Texttile, Liquid, HTML, and CSS, and outputs complete static HTML pages.
+**JekyII** is a simple static site generator based on Ruby. It takes pages input in Markdown, Texttile, Liquid, HTML, and CSS, and outputs complete static HTML pages. Most of the personal blogs are maintained as static sites with simple posts. 
+
+```
+# To install Ruby 
+$ sudo apt update  # update the packages index
+$ sudo apt install ruby-full # install Ruby by typing 
+$ ruby --version
+ruby 2.7.0p0 (2019-12-25 revision 647ee6f091) [x86_64-linux-gnu]
+
+```
 
 > Simple:
 
@@ -48,13 +57,4 @@ Setting Up the Blog for Deployment With Capistrano
 ```
 # This creates the necessary files for a Capistrano deployment.
 $ cap install 
-mkdir -p config/deploy
-create config/deploy.rb
-create config/deploy/staging.rb
-create config/deploy/production.rb
-mkdir -p lib/capistrano/tasks
-create Capfile
-Capified
-
-
 ```
