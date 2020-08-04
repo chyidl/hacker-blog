@@ -183,6 +183,12 @@ Additionally, you may choose to set the following optional variables:
 google_analytics: [Your Google Analytics tracking ID]
 ```
 
+### Let's Encrypt Nginx 
+```
+Step 1 -- Installing Cerbot 
+
+```
+
 ### About Page
 
 Edit `about.md`
