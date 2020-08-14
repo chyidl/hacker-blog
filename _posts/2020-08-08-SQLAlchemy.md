@@ -1,4 +1,4 @@
 ---
-title: SQLAlchemy - The Python SQL Toolkit and Object Relational Mapper
+title: sqlalchemy - the python sql toolkit and object relational mapper
 published: true
 ---

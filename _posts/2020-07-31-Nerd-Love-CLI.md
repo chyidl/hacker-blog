@@ -15,5 +15,13 @@ The Kubernetes community has built all sorts of web based tooling for monitoring
   $ brew install kubectx 
 
 3. kubens - helps you switch between clusters back and forth.
+``` 
+
+* translate-shell 
+
+> Command-line translator using Google Translate, Bing Translator, Yandex.Translate 
+
+```
+Prerequisites:
   
 ```
