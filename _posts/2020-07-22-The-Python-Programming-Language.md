@@ -146,4 +146,7 @@ Parallelism:
 Parallelism is particularly useful when there's a lot of work to be done in userspace, and that's typically CPU-heavy stuff. 
 
 Greenlets really shine in network programming where interactions with one socket can occur independently of interactions with other sockets. This is good because threads are very expensive in terms of virtual memory and kernel overhead. 
+
+a and b returns b if a is True, else returns a 
+a or b returns a if a is True, else return b
 ```
